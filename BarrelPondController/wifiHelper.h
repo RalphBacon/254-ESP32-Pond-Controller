@@ -4,8 +4,8 @@
 #include "serverH.hpp"
 
 // WiFi Server stuff and WiFi logon Credentials
-const char *SSID = "Greypuss";
-const char *PASSWORD = "mrSeal89";
+const char *SSID = "YOUR-SSID";
+const char *PASSWORD = "YOUR PASSWORD";
 
 // Try and get a static IP address
 IPAddress local_IP(192, 168, 1, 92);
